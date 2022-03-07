@@ -1,8 +1,4 @@
 # Trabalho realizado para fins acadêmicos
-Colaboradores:
-- https://github.com/martineli17
-- https://github.com/felipearantes
-- https://github.com/tallyswiterf
 
 
 ## Ferramentas necessárias
@@ -25,3 +21,37 @@ Colaboradores:
 
 ##### Tecnologias: 
 ##### Web API REST .NET
+
+
+<h3 align="center">🎨 Colaboradores</h4>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Martineli17">
+        <img src="https://avatars.githubusercontent.com/u/50757499?v=4" width="100px;" alt="Profile"/>
+        <br />
+        <sub>
+          <b>Fábio Martineli</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/felipearantes">
+        <img src="https://avatars.githubusercontent.com/u/50757505?v=4" width="100px;" alt="Profile"/>
+        <br />
+        <sub>
+          <b>Felipe Arantes</b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/TallysWiterF">
+        <img src="https://avatars.githubusercontent.com/u/63269777?v=4" width="100px;" alt="Profile"/>
+        <br />
+        <sub>
+          <b>Tallys Witer</b>
+        </sub>
+      </a>
+    </td>
+  </tr>  
+</table>
