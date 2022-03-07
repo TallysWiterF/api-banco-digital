@@ -1,4 +1,8 @@
 # Trabalho realizado para fins acadêmicos
+Colaboradores: https://github.com/martineli17
+               https://github.com/felipearantes
+               https://github.com/tallyswiterf
+
 
 ## Ferramentas necessárias
 #### Para iniciar essa aplicação, primeiramente é necessário obter o SDK do .NET CORE na versão 3.1 (ou superior). 
