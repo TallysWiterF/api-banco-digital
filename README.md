@@ -1,7 +1,8 @@
 # Trabalho realizado para fins acadêmicos
-Colaboradores: https://github.com/martineli17
-               https://github.com/felipearantes
-               https://github.com/tallyswiterf
+Colaboradores:
+- https://github.com/martineli17
+- https://github.com/felipearantes
+- https://github.com/tallyswiterf
 
 
 ## Ferramentas necessárias
